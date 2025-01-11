@@ -1,4 +1,5 @@
 USE EL_TMAIOZ_School;
+-- create stubjects table
 CREATE TABLE SUBJECTS (
 ID INT PRIMARY KEY,
 SUBJ_NAME VARCHAR(225)
