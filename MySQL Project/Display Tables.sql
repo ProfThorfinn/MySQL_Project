@@ -1,5 +1,5 @@
 USE EL_TMAIOZ_School;
-
+-- Add data in Students table
 INSERT INTO STUDENTS (STD_ID, STD_NAME, STD_BOD, STD_GENDER, JOIN_DATE, STD_LEVEL, TRACKS, GPA)
 VALUES 
 (1, 'Ahmed Ali', '2007-03-15', 'Male', '2023-09-01', 'Level 6', 'Scientific', 85),
